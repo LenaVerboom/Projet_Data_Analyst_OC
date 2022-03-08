@@ -10,7 +10,8 @@ publiées, mais également de mener une étude statistique destinée à orienter
 vers des pays particuliers, et de mettre en lumière différentes causes de la faim. 
 Ainsi,une poignée de data analysts (dont vous !) a été sélectionnée pour mener cette étape
 préliminaire. Lors de la première réunion, vous avez été désigné pour mettre une place la
-base de données que votre équipe pourra requéter (en SQL) à souhait pour réaliser cette étude statistique.
+base de données que votre équipe pourra requéter (en SQL) à souhait pour réaliser cette 
+étude statistique.
 
 Compétences :
 
@@ -26,3 +27,4 @@ Notions utilisées :
 - Algèbre relationnelle
 - Language Python
 - Librairie Pandas, Numpy, Scipy et sklearn.
+
