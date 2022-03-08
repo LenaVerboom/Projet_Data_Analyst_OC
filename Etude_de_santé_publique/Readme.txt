@@ -4,14 +4,15 @@ Vous êtes intégré à une nouvelle équipe de chercheurs de la Food and Agricu
 
 Compétences :
 
-Appréhender l’importance de la “connaissance métier” dans l’activité de Data Analyst
-Maîtriser les bases de Python
-Appliquer l'algèbre relationnelle en Python
-Utiliser les librairies orientées Data Science
-Effectuer des requêtes complexes en SQL
-Utiliser une documentation technique
+- Appréhender l’importance de la “connaissance métier” dans l’activité de Data Analyst
+- Maîtriser les bases de Python
+- Appliquer l'algèbre relationnelle en Python
+- Utiliser les librairies orientées Data Science
+- Effectuer des requêtes complexes en SQL
+- Utiliser une documentation technique
+
 Notions utilisées :
 
-Algèbre relationnelle
-Language Python
-Librairie Pandas, Numpy, Scipy et sklearn.
+- Algèbre relationnelle
+- Language Python
+- Librairie Pandas, Numpy, Scipy et sklearn.
