@@ -9,12 +9,12 @@ Votre entreprise, "Rester livres" s'est d'abord développée dans une grande vil
 
 Compétences : 
 
--Nettoyer un jeu de données
--Décrire un jeu de donnée par la statistique descriptive
--Maîtriser les concepts statistiques fondamentaux
+- Nettoyer un jeu de données
+- Décrire un jeu de donnée par la statistique descriptive
+- Maîtriser les concepts statistiques fondamentaux
 
 
 Notions utilisées :
  
--Statistique descriptive 
--Language Python. 
+- Statistique descriptive 
+- Language Python. 
