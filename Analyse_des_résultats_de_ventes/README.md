@@ -17,4 +17,4 @@ Compétences :
 Notions utilisées :
  
 -Statistique descriptive 
--Language Python.
+-Language Python. 
